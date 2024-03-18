@@ -1,0 +1,27 @@
+pyautogui
+pytube
+qrcode
+requests
+colorama
+pystyle
+pynput
+Faker
+pyshorteners
+spotdl
+scapy
+secrets
+colored
+pyfiglet
+ctypes
+os
+random
+webbrowser
+subprocess
+base64
+cryptography==36.0.2
+threading
+scapy
+emailfinder
+nmap
+fabric
+pikepdf tqdm
